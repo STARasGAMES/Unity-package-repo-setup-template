@@ -1,4 +1,5 @@
 TODO
 
-* Rename folder for your package in "Packages/"
-* Change $PACKAGE_FOLDER_NAME$ in ".github/workflows/ci.yml" to your packages's folder name
+* Create new repo using this project as template
+* Rename folder "Packages/PACKAGE_NAME" to represent your package name
+* Change PACKAGE_NAME in ".github/workflows/ci.yml" to your packages's folder name

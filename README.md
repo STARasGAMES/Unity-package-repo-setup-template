@@ -2,7 +2,7 @@
 This template provides solution on how to create and maintain your package, while allowing it to be distributed through GitHub.
 It has CI actions, which creates/updates branch called `upm` after each commit to `main`.
 This is very usefull because you can have whole project(with all settings) in repo, but also allow to install only `upm` branch through Package Manager.
-Look at `upm` branch to see how it looks. [options](website#upm)
+Look at `upm` branch to see how it looks. [options](https://github.com/STARasGAMES/Unity-package-repo-setup-template/tree/upm)
 
 ## Steps to setup your package repo
 

@@ -14,8 +14,8 @@ Source of template: https://medium.com/openupm/how-to-maintain-upm-package-part-
 * Change PACKAGE_NAME in ".github/workflows/ci.yml" to your packages's folder name
 * Copy your package name, because you will need to paste it several time
   1. In Unity go to your package folder and select package.json file. Change all appropriate fields.
-  2. In Unity go to your package folder and change names for .asmdef files
-  3. Change `README.md` and `Packages/PACKAE_NAME/README.md` installation sections accordingly 
+  2. In Unity go to your package folder and change names for all `.asmdef` files
+  3. Change `README.md` and `Packages/PACKAGE_NAME/README.md` installation sections accordingly to your github repo.
   4. Remove from `README.md` unnecessary text 
 
 ## Installation

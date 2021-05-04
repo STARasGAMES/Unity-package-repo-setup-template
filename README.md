@@ -5,6 +5,8 @@ This is very usefull because you can have whole project(with all settings) in re
 
 Look at [upm](https://github.com/STARasGAMES/Unity-package-repo-setup-template/tree/upm) branch to see how it looks.
 
+Source of template: https://medium.com/openupm/how-to-maintain-upm-package-part-1-7b4daf88d4c4
+
 ## Steps to setup your package repo
 
 * Create new repo using this project as template

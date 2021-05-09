@@ -1,9 +1,9 @@
 {
     "name": "PackageName.Tests",
     "references": [
-        "GUID:e921ad2c6c58735448980a63475c7203",
-        "GUID:0acc523941302664db1f4e527237feb3",
-        "GUID:27619889b8ba8c24980f49ee34dbb44a"
+        "PackageName",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
     ],
     "includePlatforms": [
         "Editor"

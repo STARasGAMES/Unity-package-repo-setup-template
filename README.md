@@ -12,6 +12,8 @@ Source of template: https://medium.com/openupm/how-to-maintain-upm-package-part-
 ## Steps to setup your package repo
 
 * Create new repo using this project as template.
+* Set proper permissions for the Actions in the `Repository Settings->Actions->General->Workflow permissions`
+  <img width="825" height="337" alt="image" src="https://github.com/user-attachments/assets/63a70705-08d5-4adf-b233-aca17616d7cf" />
 * Rename folder "Packages/PACKAGE_NAME" to represent your package name and namespace (if you are using Rider). For ex: `Packages/SaG.Dependencies`.
 * Change PACKAGE_NAME in ".github/workflows/ci.yml" to your packages's folder name.
 (IMPORTANT: it's easier to use github web client to do this step, otherwise there is a big chance to mess around with git credentials)
